@@ -1,1 +1,23 @@
-# server_lesson
+# 学んだコマンド
+- ls
+- pwd
+- cd
+- mkdir
+- touch
+- &&
+- cp
+- mv
+- rm
+- *
+- ?
+- >
+- >>
+- vi
+- vim
+
+# オプション
+- a
+- l
+- p
+- r
+- f
