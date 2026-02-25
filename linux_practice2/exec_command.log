@@ -1,0 +1,82 @@
+ 1947  git branch
+ 1948  git diff
+ 1949  git add .
+ 1950  git commit -m 'スクロールボタンの実装'
+ 1951  git push origin 2_introduce_smooth_scroll
+ 1952  git checkout master
+ 1953  git merge origin 2_introduce_smooth_scroll
+ 1954  git merge 2_introduce_smooth_scroll
+ 1955  git push origin master
+ 1956  git checkout -b 3_write_my_answer_on_md
+ 1957  git add .
+ 1958  git commit -m '問題3'
+ 1959  git push orgin 3_write_my_answer_on_md d0f2314
+ 1960  git push origin 3_write_my_answer_on_md d0f2314
+ 1961  git push origin 3_write_my_answer_on_md
+ 1962  cd ..
+ 1963  mkdir test_app && cd test_app
+ 1964  cd /usr
+ 1965  cd /home
+ 1966  ls
+ 1967  cd /mnt/c/Users/takes/OneDrive/デスクトップ/gizumo/Linux
+ 1968  mkdir test1
+ 1969  mkdir -p test2/test3
+ 1970  ls
+ 1971  cd test2
+ 1972  ls
+ 1973  cd ..
+ 1974  touch test1/index.php
+ 1975  ls
+ 1976  ls test1
+ 1977  cd test1 && ls
+ 1978  cp index.php copy.php
+ 1979  ls
+ 1980  cd .. && cp -r test1 test4
+ 1981  ls
+ 1982  ls test4
+ 1983  mv test2/test3 test3
+ 1984  mv test4 test1_copy
+ 1985  rm test1/copy.php
+ 1986  rm -r test3
+ 1987  rm test1_copy/*.php
+ 1988  echo '# Hello World' > README.md
+ 1989  cat README.md
+ 1990  echo '-----------------' >> README.md
+ 1991  cat README.md
+ 1992  apt update -y && apt install -y vim
+ 1993  vi README.md
+ 1994  cd /root
+ 1995  cd ..
+ 1996  mkdir server_lesson && cd server_lesson
+ 1997  apt update -y && apt install -y git
+ 1998  git version
+ 1999  git init
+ 2000  touch -p linux_practice1/public/index.php
+ 2001  mkdir -p linux_practice1/public
+ 2002  touch linux_practice1/public/public
+ 2003  mv linux_practice1/public/public inux_practice1/public/index.php
+ 2004  mv linux_practice1/public/public inux_practice1/public/index
+ 2005  mv linux_practice1/public/public Linux_practice1/public/index.php
+ 2006  cp linux_practice1/public/public
+ 2007  cp linux_practice1/public/public linux_practice1/public/tmp
+ 2008  cp linux_practice1/public linux_practice1/tmp
+ 2009  cp -r linux_practice1/public linux_practice1/tmp
+ 2010  cp linux_practice1/public/index.php linux_practice1/public/index_bk.php
+ 2011  rm -r linux_practice1/tmp
+ 2012  cp -r linux_practice1/public linux_practice1/tmp
+ 2013  rm linux_practice1/tmp/index_bk.php
+ 2014  touch README .md
+ 2015  vi READMD.md
+ 2016  rm README
+ 2017  rm .md
+ 2018  mkdir linux_practice2
+ 2019  mkdir linux_practice2/documents
+ 2020  touch linux_practice2/documents/gizumo{01..50}.md
+ 2021  mkdir linux_practice2/trash
+ 2022  mv linux_practice2/documents/gizumo{20..40}.md linux_practice2/trash/gizumo{20..40}.md
+ 2023  mv linux_practice2/documents/gizumo{20..40}.md linux_practice2/trash
+ 2024  touch .gitignore
+ 2025  vi linux_practice2/.gitignore
+ 2026  mv .gitignore linux_practice2
+ 2027  vi linux_practice2/.gitignore
+ 2028  history 300
